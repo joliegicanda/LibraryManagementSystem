@@ -1,0 +1,1 @@
+# id|bookId|memberId|borrowDate|dueDate|returnDate|lateFee

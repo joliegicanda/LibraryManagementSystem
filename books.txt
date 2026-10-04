@@ -1,0 +1,6 @@
+# id|title|author|isbn|category|publicationDate|publisherId
+1|Clean Code|Robert C. Martin|9780132350884|Programming|2008-08-01|2
+2|Effective Java|Joshua Bloch|9780134685991|Programming|2018-01-06|2
+3|Sapiens|Yuval Noah Harari|9780062316110|History|2015-02-10|0
+4|Atomic Habits|James Clear|9780735211292|Self-Help|2018-10-16|0
+5|Born a Crime|Trevor Noah|9780399588174|Biography|2016-11-15|0

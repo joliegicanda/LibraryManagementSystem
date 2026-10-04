@@ -1,0 +1,5 @@
+# id|role|name|email|phone|joinDate|extraInfo
+1|Librarian|Grace Uwase|grace.uwase@library.org|0788000001|2026-01-10|STAFF-001
+2|Publisher|Kigali Tech Press|info@kigalitechpress.com|0788000002|2026-02-01|Kigali Tech Press Ltd
+3|Student|Eric Mugisha|eric.mugisha@student.edu|0788000003|2026-03-15|Kigali Secondary School
+4|Student|gicanda|gi@gmail.com|ksksksksk|2026-10-04|skwskskswk
